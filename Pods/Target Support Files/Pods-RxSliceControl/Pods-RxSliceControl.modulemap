@@ -1,0 +1,6 @@
+framework module Pods_RxSliceControl {
+  umbrella header "Pods-RxSliceControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
