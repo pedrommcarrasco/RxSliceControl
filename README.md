@@ -38,7 +38,7 @@ pod install
 ```
 
 
-# Support CocoaHub ❤️
+# Support RxSliceControl ❤️
 
 Hello there 👋
 
